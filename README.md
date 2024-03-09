@@ -11,4 +11,6 @@
 
 -->
 
-[![Elikem's GitHub stats](https://github-readme-stats.vercel.app/api?username=elikem1z)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Elikem's GitHub stats](https://github-readme-stats.vercel.app/api?username=elikem1z&theme=dark&show_icons=true)
