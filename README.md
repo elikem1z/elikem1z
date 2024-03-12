@@ -26,12 +26,7 @@
 <img src="https://skillicons.dev/icons?i=notion"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=arduino"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github"/>;
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=github"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 📊 GitHub Stats:
 ![Elikem's GitHub stats](https://github-readme-stats.vercel.app/api?username=elikem1z&theme=dark&show_icons=true)
