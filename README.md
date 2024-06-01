@@ -38,7 +38,5 @@ NOTE: Top languages is only a metric of the languages my public code consists of
 
 # Contact Me ☎️
 <a href="https://www.linkedin.com/in/elikemhamenoo"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="elikemhamenoo17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 [![](https://visitcount.itsvg.in/api?id=elikem1z&icon=0&color=0)](https://visitcount.itsvg.in)
