@@ -1,13 +1,19 @@
 
 ![WhatsApp Image 2024-06-17 at 11 30 18_648b10c8](https://github.com/elikem1z/elikem1z/assets/109632084/d803aa60-9c82-45ab-9bb7-6f2c33095ec1)
 
-### Hi there! I'm Elikem👋
+<h1 align="center">Hi 👋, I'm Elikem Hamenoo</h1>
+<h3 align="center">I am a computer science student at ... and a passionate and budding developer.</h3>
 
-- 🔭 I’m currently working on a site for students to easily find study spaces on campus.
-- 🌱 I’m currently learning Front-end development, AWS, AI, & ML to tackle real-world problems.
-- 👯 I’m looking to collaborate on projects that will help me learn & grow as a developer.
-- 💬 Ask me about public policy & global issues. Let's chat!.
+- 🔭 Working on **Image2Text** ( Descriptive Text Generation using Convolutional Neural Networks (CNNs) )
+  
+- 🌱 I’m currently learning Front-end development, AWS, AI, & ML.
+  
+- 👯 I’m currently watching **House of The Dragon**
+  
+- 💬 Ask me about public policy & global issues , Anime.
+  
 - 📫 How to reach me: elikemhamenoo17@gmail.com
+  
 - ⚡ Fun fact: Regional rock climbing champ & fitness enthusiast.
 <!--
 **elikem1z/elikem1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
