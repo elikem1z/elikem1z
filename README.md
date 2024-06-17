@@ -1,3 +1,6 @@
+
+![WhatsApp Image 2024-06-17 at 11 30 18_648b10c8](https://github.com/elikem1z/elikem1z/assets/109632084/d803aa60-9c82-45ab-9bb7-6f2c33095ec1)
+
 ### Hi there! I'm Elikem👋
 
 - 🔭 I’m currently working on a site for students to easily find study spaces on campus.
