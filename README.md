@@ -4,6 +4,18 @@
 <h1 align="center">Hi 👋, I'm Elikem Hamenoo</h1>
 <h3 align="center">I am a computer science student at Grambling State University and a passionate and budding developer.</h3>
 
+<picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake-dark.svg"> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nanadotam/nanadotam/blob/output/github-contribution-grid-snake.svg">
+<!--   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg"> -->
+  <img alt="github contribution grid snake animation" src="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/elikem1z/count.svg" alt="Visitor Count"/>
+</div>
+
 - 🔭 Working on **Image2Text** ( Descriptive Text Generation using Convolutional Neural Networks (CNNs) )
   
 - 🌱 I’m currently learning Front-end development, AWS, AI, & ML.
