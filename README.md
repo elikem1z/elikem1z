@@ -1,5 +1,8 @@
 
-![WhatsApp Image 2024-06-17 at 11 30 18_648b10c8](https://github.com/elikem1z/elikem1z/assets/109632084/d803aa60-9c82-45ab-9bb7-6f2c33095ec1)
+<div style="text-align: center;">
+    <img src="https://github.com/elikem1z/elikem1z/assets/109632084/d803aa60-9c82-45ab-9bb7-6f2c33095ec1" alt="WhatsApp Image" style="width: 50%;"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Elikem Hamenoo</h1>
 <h3 align="center">I am a computer science student at Grambling State University and a passionate and budding developer.</h3>
