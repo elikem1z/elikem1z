@@ -1,11 +1,12 @@
+<h1 align="center">Hi 👋, I'm Elikem Hamenoo</h1>
+<h3 align="center">I am a computer science student at Grambling State University and a passionate and budding developer.</h3>
 
 <div style="text-align: center;">
     <img src="https://github.com/elikem1z/elikem1z/assets/109632084/d803aa60-9c82-45ab-9bb7-6f2c33095ec1" alt="WhatsApp Image" style="width: 50%;"/>
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Elikem Hamenoo</h1>
-<h3 align="center">I am a computer science student at Grambling State University and a passionate and budding developer.</h3>
+
 
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake-dark.svg"> -->
@@ -18,18 +19,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/elikem1z/count.svg" alt="Visitor Count"/>
 </div>
-
-- 🔭 Working on **Image2Text** ( Descriptive Text Generation using Convolutional Neural Networks (CNNs) )
-  
-- 🌱 I’m currently learning Front-end development, AWS, AI, & ML.
-  
-- 👯 I’m currently watching **House of The Dragon**
-  
-- 💬 Ask me about public policy & global issues , Anime.
-  
-- 📫 How to reach me: elikemhamenoo17@gmail.com
-  
-- ⚡ Fun fact: Regional rock climbing champ & fitness enthusiast.
 <!--
 **elikem1z/elikem1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
