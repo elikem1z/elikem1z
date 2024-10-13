@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Elikem Hamenoo</h1>
 <h3 align="center">I am a computer science student at Grambling State University and a passionate and budding developer.</h3>
 
+
+
+<p align="center">
+<img alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+</p>
+
+
+
+
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake-dark.svg"> -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/output/github-contribution-grid-snake-dark.svg">
