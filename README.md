@@ -8,8 +8,7 @@
 
 <h3 align="center">I am a computer science student at Grambling State University and a budding developer.</h3>
 <p align="center">
-<img alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-</p>
+
 
 
 
