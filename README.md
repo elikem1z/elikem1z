@@ -17,7 +17,7 @@
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake-dark.svg"> -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/elikem1z/elikem1z/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/elikem1z/elikem1z/blob/output/github-contribution-grid-snake.svg">
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg"> -->
+
   <img alt="github contribution grid snake animation" src="https://github.com/elikem1z/elikem1z/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg">
 </picture>
 
