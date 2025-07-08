@@ -18,11 +18,7 @@
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/elikem1z/elikem1z/blob/output/github-contribution-grid-snake-dark.svg"> -->
 </picture>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/elikem1z/count.svg" alt="Visitor Count"/>
-</div>
-<!--
-**elikem1z/elikem1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 -->
 
