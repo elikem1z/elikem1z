@@ -38,15 +38,3 @@
 <img src="https://skillicons.dev/icons?i=vscode"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# 📊 GitHub Stats:
-![Elikem's GitHub stats](https://github-readme-stats.vercel.app/api?username=elikem1z&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=elikem1z&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elikem1z&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-NOTE: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-# Contact Me ☎️
-<a href="https://www.linkedin.com/in/elikemhamenoo"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-[![](https://visitcount.itsvg.in/api?id=elikem1z&icon=0&color=0)](https://visitcount.itsvg.in)
