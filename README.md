@@ -1,19 +1,14 @@
+### hey, i'm elikem
 
+> *i am interested in systems that can simulate, decide, and act in the real world.*
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=1e90ff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elikem+Hamenoo!;" />
-</h1>
+**focusing on:**
+- embodied ai — robotics, simulation, decision-making under uncertainty
+- systems + infra — distributed systems, performance, observability
+- machine learning — world models, reinforcement learning, synthetic data
+- edge intelligence — deploying models on constrained environments
+- developer tools — making complex systems easier to build and scale
 
+prev: swe @ nvidia (robotics infra) · incoming swe @ [TBA], nyc (distributed systems/infra) · [grambling](https://gram.edu)
 
-
-<h3 align="center">I am a computer science student at Grambling State University and a budding developer.</h3>
-<p align="center">
-
-
-
-
-
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake-dark.svg"> -->
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/elikem1z/elikem1z/blob/output/github-contribution-grid-snake-dark.svg"> -->
-</picture>
+[portfolio](https://elikem1z.github.io) · [x](https://x.com/elikem_hy) · [linkedin](https://linkedin.com/in/elikemhamenoo/)
