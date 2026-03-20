@@ -11,4 +11,4 @@
 
 prev: swe @ nvidia (robotics infra) · incoming swe @ [TBA], nyc (distributed systems/infra) · [grambling](https://gram.edu)
 
-[portfolio](https://elikem1z.github.io) · [x](https://x.com/elikem_hy) · [linkedin](https://linkedin.com/in/elikemhamenoo/)
+[portfolio](https://elikem1z.github.io/final-portfolio/) · [x](https://x.com/elikem_hy) · [linkedin](https://linkedin.com/in/elikemhamenoo/)
