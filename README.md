@@ -9,6 +9,6 @@
 - systems + infra — distributed systems, performance, observability
 - deployment — bringing models onto real-world and constrained systems
 
-prev: swe @ nvidia (robotics infra) · incoming swe @ datadog (infra / observability) · [grambling](https://gram.edu)
+prev: swe @ nvidia (robotics infra) · incoming swe @ [TBA] (infra / observability) · [grambling](https://gram.edu)
 
 [portfolio](https://elikem1z.github.io/final-portfolio/) · [x](https://x.com/elikem_hy) · [linkedin](https://linkedin.com/in/elikemhamenoo/)
